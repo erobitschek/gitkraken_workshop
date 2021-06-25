@@ -1,5 +1,22 @@
-gitkraken_workshop
-# Purpose
-The purpose of this workshop is to learn more about git and github via gitkraken 
-(using some resources from the Harvard Chan Bioinformatics Core).
+README.md
+
+###NAME
+
+##Overview
+Our code will demonstrate the different ways it is possible to calculate the value of pi, done in either 
+
+##Installation
+
+##Usage
+
+
+##Getting help
+
+
+## Contributors
+
+## Reference
+
+## Licensing
+
 
